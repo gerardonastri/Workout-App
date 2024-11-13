@@ -17,6 +17,8 @@ import clock from "@/assets/icons/clock.png";
 import play from "@/assets/icons/play.png";
 import add from "@/assets/icons/add.png";
 import email from "@/assets/icons/email.png";
+import pen from "@/assets/icons/pen.png";
+import deleteIcon from "@/assets/icons/delete.png";
 
 import profileImg from "@/assets/images/profile.png";
 import check from "@/assets/images/check.png";
@@ -46,4 +48,6 @@ export const icons = {
   navbar,
   routine,
   clock,
+  pen,
+  deleteIcon,
 };

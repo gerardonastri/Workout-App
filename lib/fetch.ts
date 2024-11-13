@@ -27,6 +27,7 @@ export const useFetch = <T>(url: string, options?: RequestInit) => {
       setData(result.data);
     } catch (err) {
       setError((err as Error).message);
+      console.log(err);
     } finally {
       setLoading(false);
     }

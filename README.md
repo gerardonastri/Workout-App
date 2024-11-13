@@ -4,9 +4,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Tech Stack
 
+- React Native
 - Expo
-- NativeWind
+- zustand
 - Clerk
+- Tailwind CSS
 
 ## Get started
 

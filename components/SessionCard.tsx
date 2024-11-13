@@ -19,7 +19,7 @@ const SessionCard = ({ className }: Props) => {
       <View className="absolute top-0 left-0 w-full h-full rounded-2xl bg-black/40 z-10"></View>
       <View className="absolute w-[90%] left-3 top-3 z-50">
         <Text className="bg-blue-950 rounded-2xl px-5 py-2 text-white self-start">
-          Day 12
+          Day 3
         </Text>
         <Text className="mt-4 mb-1 text-2xl text-white">Basketball</Text>
         <Text className="text-md text-gray-200">Shooting focus</Text>

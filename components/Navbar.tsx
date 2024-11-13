@@ -47,6 +47,12 @@ const Navbar = () => {
               className="w-[22px] h-[22px]"
             />
           </TouchableOpacity>
+          <View className="flex-col gap-y-5 mt-8">
+            <Text className="text-gray-300 text-lg">Plans</Text>
+            <Text className="text-gray-300 text-lg">Workouts</Text>
+            <Text className="text-gray-300 text-lg">Videos</Text>
+            <Text className="text-gray-300 text-lg">Settings</Text>
+          </View>
         </View>
       </ReactNativeModal>
     </View>
